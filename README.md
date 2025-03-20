@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Yassin Sayed! 👋
 
-<!--
-**DevYSM/DevYSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Laravel developer with expertise in multi-tenant applications, Elasticsearch, and Firebase integrations. I follow clean architecture principles and implement repository-service patterns for scalable and maintainable code.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Backend:** Laravel 11, PHP, MongoDB, MySQL, Elasticsearch
+- **Frontend:** FilamentPHP, Livewire
+- **DevOps:** Docker, cPanel (shared hosting)
+- **Others:** Firebase, Multi-Database Tenancy, Custom Roles & Permissions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Open Source Work
+- [WaseetEncryption](https://github.com/YOUR_GITHUB_USERNAME/WaseetEncryption) - A Laravel package for encryption.
+
+## 📫 Let's Connect
+- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- Email: your.email@example.com
+
+Feel free to explore my repositories and contribute! 🚀
